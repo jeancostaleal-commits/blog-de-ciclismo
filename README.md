@@ -1,32 +1,85 @@
-<!DOCTYPE html>
-
-<html lang="pt-br">
+!DOCTYPE html>
+<html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- 
-Título do Site
--->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carros Clássicos</title>
 
-<title>Carros Velhos</title>
+    <style>
+        body {
+            background-color: #1b1b1b;
+            color: #f5f5f5;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+        }
+
+        header {
+            background-color: #8B0000;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            color: #FFD700;
+        }
+
+        h2 {
+            color: #FFD700;
+        }
+
+        h3 {
+            color: #ffb347;
+        }
+
+        p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #8B0000;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
 </head>
+
 <body>
-<!-- 
-Título
--->
-<p>
-<h1>Carros Clássicos</h1>
-<p>Vamos falar sobre lendas antigas, carros classicos nacionais e internacionais, eventos e encontros da década de 70-90</p>
+
+<header>
+    <h1>Carros Clássicos</h1>
+    <p>Vamos falar sobre lendas antigas, carros clássicos nacionais e internacionais, eventos e encontros das décadas de 70, 80 e 90.</p>
+</header>
+
+<section>
+    <h2>A História do Grande Ícone Brasileiro - Chevrolet Opala SS</h2>
+
+    <h3>O Nascimento de uma Lenda</h3>
+
+    <p>Na década de 1970, o cenário automotivo brasileiro fervilhava, mas o público jovem buscava carros esportivos e marcantes. Em novembro de 1971, a Chevrolet lançou o Opala SS (Super Sport), que rapidamente conquistou os apaixonados por velocidade.</p>
+
+    <p>Em 1972 surgiu a famosa versão cupê de duas portas, considerada até hoje uma das mais bonitas da história da indústria automobilística brasileira. Seu visual esportivo, aliado ao desempenho e ao ronco característico do motor, transformou o Opala SS em um verdadeiro ícone nacional.</p>
+</section>
+
+<section>
+    <h2>O Puro Muscle Car Americano no Brasil - Ford Maverick GT V8</h2>
+
+    <h3>A Resposta da Ford ao Mercado Esportivo</h3>
+
+    <p>Lançado em 1973, o Ford Maverick GT V8 chegou ao Brasil trazendo o poderoso motor 302 V8. Seu desempenho, o ronco inconfundível e o visual inspirado nos muscle cars americanos fizeram dele um dos carros mais desejados da época.</p>
+
+    <p>O Maverick GT tornou-se o principal rival do Opala SS, protagonizando disputas memoráveis nas pistas e conquistando milhares de fãs. Atualmente, é um dos clássicos mais valorizados pelos colecionadores brasileiros.</p>
+</section>
+
+<section>
+    <h2>Por que os carros clássicos fazem tanto sucesso?</h2>
+
+    <p>Os carros antigos representam uma época em que o design, o som dos motores e a experiência ao volante eram únicos. Além do valor histórico, muitos modelos se tornam verdadeiros investimentos para colecionadores e apaixonados pelo automobilismo.</p>
+
+    <p>Encontros de carros antigos acontecem em várias cidades do Brasil e reúnem famílias, colecionadores e admiradores que compartilham histórias e preservam essas máquinas incríveis.</p>
+</section>
+  
 </body>
 </html>
-
---Informações - Tema 1
-
-<h2>A hístoria do grande ícone Brasileiro - Chevrolet Opala SS</h2>
-<h3>O Nascimento de uma lenda</h3>
-<p>Na década de 1970, o cenário automotivo brasileiro fervilhava, mas o público jovem e apaixonado por velocidade buscava algo a mais. Foi nesse cenário que, em novembro de 1971, a Chevrolet apresentou ao mercado o Opala SS (Super Sport). Inicialmente lançado na carroceria sedan de quatro portas, o modelo ganhou sua forma mais icônica logo no ano seguinte, com o lançamento da desejada carroceria Cupê, de duas portas e sem colunas centrais. O Opala SS não era apenas um meio de transporte; ele era um símbolo de status, rebeldia e alta performance nacional.</p>
---Informações - Tema 2
-
-<h2>O Puro Muscle Car Americano no Brasil - Ford Maverick GT V8</h2>
-<h3>A Resposta da Ford ao Mercado Esportivo</h3>
-<p>Lançado em 1973, o Ford Maverick chegou ao Brasil com a missão de competir no mercado de carros de luxo e esportivos. A sua versão mais lendária, a GT, trazia sob o capô o icônico motor 302 V8 importado, que emitia um ronco inconfundível e apaixonante. Com suas linhas inspiradas nos muscle cars americanos, traseira no estilo fastback e as famosas faixas pretas no capô, o Maverick GT se tornou o grande rival do Opala SS nas pistas da Stock Car e nas ruas brasileiras. Hoje, ele é um dos clássicos mais raros, barulhentos e desejados por colecionadores.</p>
