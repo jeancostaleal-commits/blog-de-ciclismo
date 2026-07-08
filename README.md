@@ -49,8 +49,9 @@
 <body>
 
 <header>
-    <h2>Por:
-        Vitor Kobren, Jean Leal e Lucas Vasquez
+        <h2>Por:
+        Vitor Kobren, Jean Leal e Lucas Vasquez</h2>
+    
     <h1>Carros Clássicos</h1>
     <p>Vamos falar sobre lendas antigas, carros clássicos nacionais e internacionais, eventos e encontros das décadas de 70, 80 e 90.</p>
 </header>
